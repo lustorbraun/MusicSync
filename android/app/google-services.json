@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "331575135279",
+    "firebase_url": "https://musicsyncreal.firebaseio.com",
+    "project_id": "musicsyncreal",
+    "storage_bucket": "musicsyncreal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331575135279:android:36888605f2c8c985c44ada",
+        "android_client_info": {
+          "package_name": "com.sumitsehrawat.realmusicsync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331575135279-091htbr5g3vcqfhbe76lc326e6kllvpc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sumitsehrawat.realmusicsync",
+            "certificate_hash": "a7ce8e6badff3bc8119d110cc96b76b2a09f3722"
+          }
+        },
+        {
+          "client_id": "331575135279-770v10fjar3vvunol6dhr269vu54391m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCLYspl_SsTJ3EXkJY3VvKuut6YGSFjlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331575135279-770v10fjar3vvunol6dhr269vu54391m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
